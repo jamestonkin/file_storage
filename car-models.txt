@@ -1,0 +1,6 @@
+T=Camry
+F=F150
+C=Silverado
+N=Altima
+H=Sonata
+K=Del Sol
